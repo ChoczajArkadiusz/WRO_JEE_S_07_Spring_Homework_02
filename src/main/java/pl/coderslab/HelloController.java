@@ -1,6 +1,5 @@
-package pl.coderslab.app;
+package pl.coderslab;
 
-import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.util.ResourceUtils;
