@@ -24,5 +24,9 @@
     <h4>Zadanie 4</h4>
     <a href="/workers">/workers</a><br>
 
+    <h4>Zadanie 5</h4>
+    <a href="/cart">/cart</a><br>
+    <a href="/addToCart">/addToCart</a><br>
+
 </body>
 </html>
